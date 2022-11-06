@@ -1308,6 +1308,7 @@ footer p.copyright span {
     position: fixed;
     right: 25px;
     bottom: 25px;
+    z-index: 999;
 }
 
 .scroll-to-top:hover span {
